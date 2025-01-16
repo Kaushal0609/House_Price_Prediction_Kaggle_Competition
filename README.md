@@ -10,7 +10,7 @@ This project is based on the Kaggle competition "[House Prices - Advanced Regres
 
 ## Achievements
 - **Public Leaderboard Score**: 0.1237 (RMSLE)
-- **Position**: 530th
+- **Position**: 527th
 
 ## Dataset
 The dataset includes comprehensive information about houses, such as:
